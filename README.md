@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/yoraudev/yoraudev/blob/main/yorau1337.jpg" width="100"/>
+  <img src="https://github.com/yoraudev/yoraudev/blob/main/yorau1337.png" width="100"/>
   <div id="badges">
     <a href="profileviewcount">
       <img src="https://komarev.com/ghpvc/?username=yoraudev&style=flat-square&color=blue" alt=""/>
